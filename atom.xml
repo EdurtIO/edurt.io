@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Edurt Open Source</title>
+  
+  <subtitle>EdurtIO开源项目官方站点</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.edurt.io/"/>
+  <updated>2021-04-09T02:25:22.511Z</updated>
+  <id>https://www.edurt.io/</id>
+  
+  <author>
+    <name>[object Object]</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>gcm(incubator)</title>
+    <link href="https://www.edurt.io/2021/04/09/project-incubator-gcm.html"/>
+    <id>https://www.edurt.io/2021/04/09/project-incubator-gcm.html</id>
+    <published>2021-04-09T02:16:41.267Z</published>
+    <updated>2021-04-09T02:25:22.511Z</updated>
+    
+    <content type="html"><![CDATA[<p>gcm是Guice Component Management的缩写，用于简化基于Guice容器的各种服务组件。它使您可以快速使用某些组件，而不必编写某些组件的逻辑。它只是集成到Guice容器中的一组Bridge，并且特定的业务实现需要由用户自定义。它易于上手，快速且没有太多冗余，因此您可以随时随地将其注入到现有的Guice容器中。快来体验吧！</p><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p><a href="https://github.com/EdurtIO/incubator-gcm/blob/master/LICENSE" target="_blank" rel="noopener"><img src="https://img.shields.io/github/license/EdurtIO/incubator-gcm?label=license&style=for-the-badge" alt="GitHub license"></a><br><a href="https://github.com/EdurtIO/incubator-gcm/issues" target="_blank" rel="noopener"><img src="https://img.shields.io/github/issues/EdurtIO/incubator-gcm?label=GitHub%20Issues&style=for-the-badge" alt="GitHub issues"></a></p><p><a href="https://github.com/EdurtIO/incubator-gcm/network" target="_blank" rel="noopener"><img src="https://img.shields.io/github/forks/EdurtIO/incubator-gcm?label=github%20forks&style=for-the-badge" alt="GitHub forks"></a><br><a href="https://github.com/EdurtIO/incubator-gcm/stargazers" target="_blank" rel="noopener"><img src="https://img.shields.io/github/stars/EdurtIO/incubator-gcm?label=github%20stars&style=for-the-badge" alt="GitHub stars"></a></p><h3 id="源码地址"><a href="#源码地址" class="headerlink" title="源码地址"></a>源码地址</h3><ul><li><a href="https://gitee.com/EdurtIO/incubator-gcm" target="_blank" rel="noopener">GitHub</a></li></ul><h3 id="贡献者"><a href="#贡献者" class="headerlink" title="贡献者"></a>贡献者</h3><ul><li><a href="https://github.com/qianmoq" target="_blank" rel="noopener">qianmoQ</a></li></ul><h3 id="Powered-By"><a href="#Powered-By" class="headerlink" title="Powered By"></a>Powered By</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;gcm是Guice Component Management的缩写，用于简化基于Guice容器的各种服务组件。它使您可以快速使用某些组件，而不必编写某些组件的逻辑。它只是集成到Guice容器中的一组Bridge，并且特定的业务实现需要由用户自定义。它易于上手，快速且没有太多
+      
+    
+    </summary>
+    
+    
+      <category term="Open Source" scheme="https://www.edurt.io/categories/Open-Source/"/>
+    
+      <category term="Java" scheme="https://www.edurt.io/categories/Open-Source/Java/"/>
+    
+    
+      <category term="Java" scheme="https://www.edurt.io/tags/Java/"/>
+    
+      <category term="Guice" scheme="https://www.edurt.io/tags/Guice/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简洁的可视化报表引擎iCharts</title>
+    <link href="https://www.edurt.io/2021/04/09/project-icharts.html"/>
+    <id>https://www.edurt.io/2021/04/09/project-icharts.html</id>
+    <published>2021-04-09T01:53:00.023Z</published>
+    <updated>2021-04-09T01:53:00.023Z</updated>
+    
+    <content type="html"><![CDATA[<p>简洁的可视化报表系统，高度可定制化，支持大部分的报表格式，如折线图，柱状图，饼图等各式各样的报表！</p><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><h3 id="源码地址"><a href="#源码地址" class="headerlink" title="源码地址"></a>源码地址</h3><ul><li><a href="https://github.com/EdurtIO/incubator-icharts" target="_blank" rel="noopener">GitHub</a></li></ul><h3 id="贡献者"><a href="#贡献者" class="headerlink" title="贡献者"></a>贡献者</h3><ul><li><a href="https://github.com/qianmoq" target="_blank" rel="noopener">qianmoQ</a></li></ul><h3 id="Powered-By"><a href="#Powered-By" class="headerlink" title="Powered By"></a>Powered By</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;简洁的可视化报表系统，高度可定制化，支持大部分的报表格式，如折线图，柱状图，饼图等各式各样的报表！&lt;/p&gt;
+&lt;h2 id=&quot;项目简介&quot;&gt;&lt;a href=&quot;#项目简介&quot; class=&quot;headerlink&quot; title=&quot;项目简介&quot;&gt;&lt;/a&gt;项目简介&lt;/h2&gt;&lt;h3 id=&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="开源项目" scheme="https://www.edurt.io/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
+    
+      <category term="TypeScript" scheme="https://www.edurt.io/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/TypeScript/"/>
+    
+    
+      <category term="TypeScript" scheme="https://www.edurt.io/tags/TypeScript/"/>
+    
+      <category term="报表" scheme="https://www.edurt.io/tags/%E6%8A%A5%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iMonitor是一套服务，资源监控系统。</title>
+    <link href="https://www.edurt.io/2021/04/09/project-imonitor.html"/>
+    <id>https://www.edurt.io/2021/04/09/project-imonitor.html</id>
+    <published>2021-04-09T01:53:00.023Z</published>
+    <updated>2021-04-09T01:53:00.023Z</updated>
+    
+    <content type="html"><![CDATA[<p>服务，资源监控系统!</p><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><h3 id="支持功能"><a href="#支持功能" class="headerlink" title="支持功能"></a>支持功能</h3><hr><ul><li>用户模块</li><li>主机模块</li><li>Web Terminal</li><li>仪表盘（持续更新中）</li></ul><h3 id="源码地址"><a href="#源码地址" class="headerlink" title="源码地址"></a>源码地址</h3><ul><li><a href="https://github.com/EdurtIO/incubator-imonitor" target="_blank" rel="noopener">GitHub</a></li></ul><h3 id="贡献者"><a href="#贡献者" class="headerlink" title="贡献者"></a>贡献者</h3><ul><li><a href="https://github.com/qianmoq" target="_blank" rel="noopener">qianmoQ</a></li></ul><h3 id="Powered-By"><a href="#Powered-By" class="headerlink" title="Powered By"></a>Powered By</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;服务，资源监控系统!&lt;/p&gt;
+&lt;h2 id=&quot;项目简介&quot;&gt;&lt;a href=&quot;#项目简介&quot; class=&quot;headerlink&quot; title=&quot;项目简介&quot;&gt;&lt;/a&gt;项目简介&lt;/h2&gt;&lt;h3 id=&quot;支持功能&quot;&gt;&lt;a href=&quot;#支持功能&quot; class=&quot;headerlink
+      
+    
+    </summary>
+    
+    
+      <category term="开源项目" scheme="https://www.edurt.io/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
+    
+      <category term="Python" scheme="https://www.edurt.io/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/Python/"/>
+    
+    
+      <category term="Python" scheme="https://www.edurt.io/tags/Python/"/>
+    
+      <category term="监控" scheme="https://www.edurt.io/tags/%E7%9B%91%E6%8E%A7/"/>
+    
+  </entry>
+  
+</feed>
